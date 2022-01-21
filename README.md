@@ -1,3 +1,13 @@
+# Some sample Python data structures / algorithms
+
+> See https://www.bigocheatsheet.com/#data-structures
+
+```
+python array.py
+```
+
+> The container used was from the sample provided by VSCode See further down for the pre-loaded flask example
+
 # Try Out Development Containers: Python
 
 A **development container** is a running [Docker](https://www.docker.com) container with a well-defined tool/runtime stack and its prerequisites. You can try out development containers with **[GitHub Codespaces](https://github.com/features/codespaces)** or **[Visual Studio Code Remote - Containers](https://aka.ms/vscode-remote/containers)**.
